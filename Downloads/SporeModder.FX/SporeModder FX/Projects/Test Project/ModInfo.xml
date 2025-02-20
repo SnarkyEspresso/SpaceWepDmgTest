@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod description="This is simply me just messing around with damage properties, I increased most that I saw fit, let me know if you think I should decrease anything or maybe increase something" displayName="Test Project" dllsBuild="$SPOREMOD_DLLS_BUILD" githubUrl="https://github.com/SnarkyEspresso/SpaceWepDmgTest.git" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="$SPOREMOD_EXPERIMENTAL" unique="TestProject" websiteUrl="https://github.com/SnarkyEspresso/SpaceWeaponDMGTest">
+  <prerequisite game="GalacticAdventures">Test_Project.package</prerequisite>
+</mod>
